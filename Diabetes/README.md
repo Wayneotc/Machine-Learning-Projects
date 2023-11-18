@@ -15,13 +15,10 @@ The main objective of this project is to develop a machine learning model that c
 1. Data Preprocessing: Perform data cleaning, handle missing values, and preprocess the dataset for further analysis.
 2. Exploratory Data Analysis (EDA): Conduct exploratory data analysis to gain insights into the dataset and understand the relationships between variables.
 3. Feature Selection: Select the most relevant features that strongly correlate with A1C levels and contribute to diabetes classification.
-4. Model Development: Build and train machine learning models such as logistic regression, decision trees, random forests, or support vector machines to predict A1C levels.
-5. Model Evaluation: Evaluate the performance of the models using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score.
-6. Model Optimization: Fine-tune the models by optimizing hyperparameters, using techniques like cross-validation or grid search, to improve their performance.
-7. Model Deployment: Deploy the trained model to make predictions on new, unseen data and classify individuals into the appropriate diabetes category.
+4. Data Visualization.
+5. Model Development: Build and train machine learning using a random forest classifier to predict A1C levels.
+6. Model Evaluation: Evaluating the performance of the models using appropriate evaluation metrics accuracy, precision, recall, and F1-score.
 
 ## Conclusion
 
 By accurately predicting A1C levels, this machine learning project aims to aid in the early detection and classification of diabetes, which can help in implementing timely interventions and lifestyle modifications. The developed model can provide valuable insights for healthcare professionals to better manage and prevent diabetes-related complications.
-
-Note: This project requires the diabetes dataset available at http://biostat.mc.vanderbilt.edu/DataSets, courtesy of Dr. John Schorling.
